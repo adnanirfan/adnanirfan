@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanirfan" alt="adnanirfan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adnanirfan" target="blank"><img src="https://img.shields.io/twitter/follow/adnanirfan?logo=twitter&style=for-the-badge" alt="adnanirfan" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/adnanirfan" target="blank"><img src="https://img.shields.io/twitter/follow/adnanirfan?logo=twitter&style=for-the-badge" alt="adnanirfan" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/adnanirfan](https://github.com/adnanirfan)
 
