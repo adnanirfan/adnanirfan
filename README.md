@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Adnan Irfan</h1>
-<h3 align="center">A Full Stack Developer from Karachi, Pakistan</h3>
+<h3 align="center">A Full Stack Software Engineer from Karachi, Pakistan. who tries to bring smiles to people around the world through the Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanirfan&label=Profile%20views&color=0e75b6&style=flat" alt="adnanirfan" /> </p>
 
